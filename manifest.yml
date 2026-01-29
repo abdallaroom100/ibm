@@ -1,0 +1,5 @@
+applications:
+- name: my-super-shell
+  memory: 256M
+  instances: 1
+  buildpack: nodejs_buildpack
